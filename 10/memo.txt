@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name cloud-computing-10 --template-body file://cloudformation.yaml --region us-east-2
